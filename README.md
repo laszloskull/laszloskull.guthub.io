@@ -1,2 +1,2 @@
-# laszloskull.guthub.io
+# laszloskull.github.io
 Demo page
